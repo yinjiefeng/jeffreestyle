@@ -3,7 +3,7 @@
  */
 var HelloWorld = React.createClass({
     render: () => {
-        return (<div className="hello">Hello world3</div>);
+        return (<div className="hello">Hello world13</div>);
     }
 });
 
